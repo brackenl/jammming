@@ -1,7 +1,7 @@
 import SearchBar from "../Components/SearchBar/SearchBar";
 
 let accessToken;
-const clientId = '3a89c9d214304dada870d2c1a99b784a'; // remove this later
+const clientId = 'XXXX'; // need to add client ID from API dashboard for this to work
 const redirectUri = 'https://brackenl-jammming.surge.sh';
 
 const Spotify = {
